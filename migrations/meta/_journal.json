@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711671246332,
+      "tag": "0000_cloudy_human_fly",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711840330580,
+      "tag": "0001_fearless_midnight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711841951992,
+      "tag": "0002_condemned_cassandra_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1711842061350,
+      "tag": "0003_nosy_thor",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1711925340081,
+      "tag": "0004_familiar_wither",
+      "breakpoints": true
+    }
+  ]
+}
